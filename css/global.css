@@ -1,0 +1,26 @@
+:root{
+    --primary-color: #fafafa;
+    --white-color:#ffffff;
+    --black-color:#000000;
+    --star-gold-color: #ffa500 ;
+    --text-color: #333;
+    --border-color: #363636;
+    --hover-color: #e2524a;
+   
+}
+.bg-black{
+    background-color: #000000;
+}
+.bg-footer{
+    background: #212121;
+}
+.font-size-14{
+    font-size: 14px;
+}
+.font-size-11{
+    font-size: 11px;
+}
+a{
+    overflow: hidden;
+}
+
